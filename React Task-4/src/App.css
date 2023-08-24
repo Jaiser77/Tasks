@@ -1,0 +1,32 @@
+.custom-carousel {
+  height: 570px !important; 
+  margin: 0 auto; 
+}
+
+.custom-carousel-image {
+  height: 550px !important; 
+  object-fit: cover; 
+}
+.p {
+  text-indent: 50px;
+}
+.btn1{
+  margin-top: 35px;
+}
+.btn2rm{
+  margin-top: 38.1px;
+}
+.btnot{
+  margin-top: 43.5px;
+}
+.btnot2{
+  margin-top: 30px;
+}
+.custom-navbar{
+  background-color: rgb(209, 200, 200) !important;
+  color:antiquewhite !important;
+}
+
+.anc{
+  color:blue !important;
+}
